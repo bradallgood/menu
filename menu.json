@@ -1,0 +1,32 @@
+{
+    "Specials": [ 
+        {   
+        "Name": "Flatbread Bruschetta",
+        "Type": "Appetizer",
+        "Description": "Baked pita bread with tomato pomodoro, mozzarella and feta",
+        "Image": "brushetta.jpg",
+        "Price": 7.02
+        },
+        {
+        "Name": "Poutine",
+        "Type": "Appetizer",
+        "Description": "Crinkle cut fries with white cheddar cheese curds and Guiness beef gravy",
+        "Image": "poutine.jpg",
+        "Price": 8.79
+        },
+        {
+        "Name": "Feather Bones",
+        "Type": "Entree",
+        "Description": "Served with spicy curly fries",
+        "Image": "featherbones.jpg",
+        "Price": 10.01
+        },
+        {
+        "Name": "Chipotle Chicken Taco Salad",
+        "Type": "Entree",
+        "Description": "shredded lettuce, chicken tinga, cheddar cheese, black beans, pico de gallo, tomato salsa and chipotle lime sour cream",
+        "Image": "chipotlechicken.jpg",
+        "Price": 11.87
+        }    
+    ] 
+}
