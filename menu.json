@@ -1,40 +1,53 @@
 {
     "Specials": [ 
         {   
-        "Name": "Steak Day",
-        "Type": "Entree",
-        "Description": "your choice of potato, salad and bun",
-        "Image": "brushetta.jpg",
-        "Price": 8.99
-        },
-        {
-        "Name": "Gizzards",
+        "Name": "Bacon Jalepno Popper Potato Skins",
         "Type": "Appetizer",
-        "Description": "Generous portion of chicken gizzards",
-        "Image": "poutine.jpg",
+        "Description": "Jalpenos, bacon and cream cheese served with Southwestern Ranch",
+        "Image": "popper.jpg",
         "Price": 8.00
         },
         {
-        "Name": "Peach Peacan Smoked Chicken Salad Sandwich",
+        "Name": "Italian Nachos",
+        "Type": "Appetizer",
+        "Description": "Tortilla chips, Italian sausage, pepperoni, banana peppers, red onions, black olives, mozzarella, alfredod and marinara",
+        "Image": "nachos.jpg",
+        "Price": 8.00
+        },
+        {
+        "Name": "Chipotle Chicken Wrap",
         "Type": "Entree",
-        "Description": "smoked chicken salad served on a croisant",
-        "Image": "featherbones.jpg",
+        "Description": "with lettuce, pico de gallo, chipotle lime sour cream and cheddar cheese",
+        "Image": "wrap.jpg",
         "Price": 10.00
         },
         {
-        "Name": "Chipotle Chicken Taco Salad",
+        "Name": "Prime Rib Sandwich",
         "Type": "Entree",
-        "Description": "shredded lettuce, chicken tinga, cheddar cheese, black beans, pico de gallo, tomato salsa and chipotle lime sour cream",
-        "Image": "chipotlechicken.jpg",
-        "Price": 10.99
-        },
-        
-        {
-        "Name": "BBQ Pulled Pork Sandwich",
-        "Type": "Entree",
-        "Description": "with onion straws and pepperjack cheese",
-        "Image": "chipotlechicken.jpg",
+        "Description": "Tender cut of meat perfectly seasoned ",
+        "Image": "primesandwich.jpg",
         "Price": 10.00
+        },
+        {
+        "Name": "Italian Deli Melt",
+        "Type": "Entree",
+        "Description": "Salami, pepperoni, turkey, ham, provolone, basil parmesan aioli, lettuce and tomoato on garlic butter focaccia hoagie with marinara",
+        "Image": "delimelt.jpg",
+        "Price": 10.00
+        },
+        {
+        "Name": "Cajun Chicken and Sausage Penne Pasta",
+        "Type": "Entree",
+        "Description": "Cajun three cheese cream and pico de gallo",
+        "Image": "pasta.jpg",
+        "Price": 11.00
+        },
+        {
+        "Name": "Marinated Steak Tip Salad",
+        "Type": "Entree",
+        "Description": "Mixed greens, grape tomatos, red onions, blue cheese crumbles and croutons",
+        "Image": "steaksalad.jpg",
+        "Price": 11.00
         }
     ] 
 }
