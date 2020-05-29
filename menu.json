@@ -1,9 +1,9 @@
 {
     "Specials": [ 
         {   
-        "Name": "Bacon Jalepno Popper Potato Skins",
+        "Name": "Bacon Jalapeno Popper Potato Skins",
         "Type": "Appetizer",
-        "Description": "Jalpenos, bacon and cream cheese served with Southwestern Ranch",
+        "Description": "Jalapenos, bacon and cream cheese served with Southwestern Ranch",
         "Image": "popper.jpg",
         "Price": 8.00
         },
